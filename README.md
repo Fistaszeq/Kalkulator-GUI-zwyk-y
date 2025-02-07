@@ -1,0 +1,1 @@
+Plik sample.py zawiera kalkulator i się odpali kalkulator ale znajduje się tam 6 innych małych projektów. Musiałem sobie poćwiczyć przd zrobieniem kalkulatora. Więc są tak takie podprojekty od kalkulatora.
